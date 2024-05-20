@@ -1,6 +1,6 @@
 **Description:**
 
-This program is designed for the HyperLiquid Dex Exchange and is inspired by [Tradermath.org](https://www.tradermath.org/). The task was to automate the process of logging every trade's quantity, price, and whether it was a buy or sell transaction.
+This program is designed for the HyperLiquid Dex Exchange and is inspired by [Tradermath.org](https://www.tradermath.org/). The task was to automate the process of logging every trade's quantity, price, and whether it was a buy or sell and PnL for the transaction.
 
 **Instructions for Use:**
 
